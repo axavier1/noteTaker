@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "bootstrap": "^5.3.2",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "fs": "^0.0.1-security",
+    "uuid": "^9.0.1"
   }
 }
